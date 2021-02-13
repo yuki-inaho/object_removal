@@ -1,1 +1,7 @@
 .mypy_cache
+.vscode
+__pycache__/
+images/
+annotations/
+output/
+masks/

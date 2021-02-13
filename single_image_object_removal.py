@@ -1,7 +1,5 @@
 import cv2
 import click
-from pathlib import Path
-from tqdm import trange
 from object_removal import ObjectRemover
 
 @click.command()
