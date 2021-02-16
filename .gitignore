@@ -1,7 +1,9 @@
 .mypy_cache
+.venv
 .vscode
 __pycache__/
 images/
 annotations/
 output/
 masks/
+*.egg-info
